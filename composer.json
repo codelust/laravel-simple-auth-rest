@@ -1,0 +1,23 @@
+{
+    "name": "frontiernxt/laravel-rest-api",
+    "description": "Simple starter REST API to provide basic auth and other services in Laravel.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0",
+        "laravel/framework": "5.5.28",
+        "dingo/api": "v2.0.0-alpha1",
+        "tymon/jwt-auth": "^0.5.12"
+        
+    },
+    "require-dev": {
+        "filp/whoops": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shyam Somanadh",
+            "email": "ss@frontiernxt.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
